@@ -10,7 +10,7 @@ configs.
 **Instructions for running**
 
  * Download and install docker-compose (`sudo pip install -U docker-compose`)
- * Clone this repo (`git clone https://github.com/jmreicha/graphite-docker`)
+ * Clone this repo (`git clone https://github.com/entrymissing/graphite-docker`)
  * Modify install script (`cd graphite-docker && chmod +x bootstrap.sh`)
  * Run script (`./bootstrap.sh`)
  * Run the graphite stack (`docker-compose up`)
